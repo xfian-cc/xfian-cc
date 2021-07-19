@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xfian-cc a Front End Web Developer
 - 👀 I’m interested in web design and programming
-- 🌱 I’m currently learning web devloper
+- 🌱 I’m currently learning web developer
 - 💞️ I’m looking to collaborate on Javascript and React project
 - 📫 Email: muhamad.alfian@outlook.com IG: @xfian.cc
 
